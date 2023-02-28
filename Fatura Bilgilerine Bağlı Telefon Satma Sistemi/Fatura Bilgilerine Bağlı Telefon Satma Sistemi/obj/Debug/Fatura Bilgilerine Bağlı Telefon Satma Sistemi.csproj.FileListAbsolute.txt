@@ -1,0 +1,16 @@
+C:\Users\zekikiz\Desktop\PROJE\Fatura Bilgilerine Bağlı Telefon Satma Sistemi\Fatura Bilgilerine Bağlı Telefon Satma Sistemi\bin\Debug\Fatura Bilgilerine Bağlı Telefon Satma Sistemi.exe.config
+C:\Users\zekikiz\Desktop\PROJE\Fatura Bilgilerine Bağlı Telefon Satma Sistemi\Fatura Bilgilerine Bağlı Telefon Satma Sistemi\bin\Debug\Fatura Bilgilerine Bağlı Telefon Satma Sistemi.exe
+C:\Users\zekikiz\Desktop\PROJE\Fatura Bilgilerine Bağlı Telefon Satma Sistemi\Fatura Bilgilerine Bağlı Telefon Satma Sistemi\bin\Debug\Fatura Bilgilerine Bağlı Telefon Satma Sistemi.pdb
+C:\Users\zekikiz\Desktop\PROJE\Fatura Bilgilerine Bağlı Telefon Satma Sistemi\Fatura Bilgilerine Bağlı Telefon Satma Sistemi\obj\Debug\Fatura Bilgilerine Bağlı Telefon Satma Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\zekikiz\Desktop\PROJE\Fatura Bilgilerine Bağlı Telefon Satma Sistemi\Fatura Bilgilerine Bağlı Telefon Satma Sistemi\obj\Debug\Fatura_Bilgilerine_Bağlı_Telefon_Satma_Sistemi.Admin.resources
+C:\Users\zekikiz\Desktop\PROJE\Fatura Bilgilerine Bağlı Telefon Satma Sistemi\Fatura Bilgilerine Bağlı Telefon Satma Sistemi\obj\Debug\Fatura_Bilgilerine_Bağlı_Telefon_Satma_Sistemi.Calisan.resources
+C:\Users\zekikiz\Desktop\PROJE\Fatura Bilgilerine Bağlı Telefon Satma Sistemi\Fatura Bilgilerine Bağlı Telefon Satma Sistemi\obj\Debug\Fatura_Bilgilerine_Bağlı_Telefon_Satma_Sistemi.Form1.resources
+C:\Users\zekikiz\Desktop\PROJE\Fatura Bilgilerine Bağlı Telefon Satma Sistemi\Fatura Bilgilerine Bağlı Telefon Satma Sistemi\obj\Debug\Fatura_Bilgilerine_Bağlı_Telefon_Satma_Sistemi.Properties.Resources.resources
+C:\Users\zekikiz\Desktop\PROJE\Fatura Bilgilerine Bağlı Telefon Satma Sistemi\Fatura Bilgilerine Bağlı Telefon Satma Sistemi\obj\Debug\Fatura_Bilgilerine_Bağlı_Telefon_Satma_Sistemi.Yonetici.resources
+C:\Users\zekikiz\Desktop\PROJE\Fatura Bilgilerine Bağlı Telefon Satma Sistemi\Fatura Bilgilerine Bağlı Telefon Satma Sistemi\obj\Debug\Fatura Bilgilerine Bağlı Telefon Satma Sistemi.csproj.GenerateResource.Cache
+C:\Users\zekikiz\Desktop\PROJE\Fatura Bilgilerine Bağlı Telefon Satma Sistemi\Fatura Bilgilerine Bağlı Telefon Satma Sistemi\obj\Debug\Fatura Bilgilerine Bağlı Telefon Satma Sistemi.exe
+C:\Users\zekikiz\Desktop\PROJE\Fatura Bilgilerine Bağlı Telefon Satma Sistemi\Fatura Bilgilerine Bağlı Telefon Satma Sistemi\obj\Debug\Fatura Bilgilerine Bağlı Telefon Satma Sistemi.pdb
+C:\Users\zekikiz\Desktop\PROJE\Fatura Bilgilerine Bağlı Telefon Satma Sistemi\Fatura Bilgilerine Bağlı Telefon Satma Sistemi\obj\Debug\Fatura_Bilgilerine_Bağlı_Telefon_Satma_Sistemi.Fatura.resources
+C:\Users\zekikiz\Desktop\PROJE\Fatura Bilgilerine Bağlı Telefon Satma Sistemi\Fatura Bilgilerine Bağlı Telefon Satma Sistemi\obj\Debug\Fatura_Bilgilerine_Bağlı_Telefon_Satma_Sistemi.Musteri.resources
+C:\Users\zekikiz\Desktop\PROJE\Fatura Bilgilerine Bağlı Telefon Satma Sistemi\Fatura Bilgilerine Bağlı Telefon Satma Sistemi\obj\Debug\Fatura_Bilgilerine_Bağlı_Telefon_Satma_Sistemi.Puan.resources
+C:\Users\zekikiz\Desktop\PROJE\Fatura Bilgilerine Bağlı Telefon Satma Sistemi\Fatura Bilgilerine Bağlı Telefon Satma Sistemi\obj\Debug\Fatura_Bilgilerine_Bağlı_Telefon_Satma_Sistemi.SifreYenile.resources
